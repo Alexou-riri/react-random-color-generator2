@@ -24,10 +24,10 @@ button {
   border: solid;
   height: 150px;
   width: 230px;
-
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
   margin: 60px auto;
   border-radius: 20px;
-  font-family: 'Verdana, sans-serif';
 }
 .container p {
   background-color: color;
