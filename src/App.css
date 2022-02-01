@@ -3,7 +3,6 @@
 }
 
 .click p {
-  font-family: 'Verdana, sans-serif';
   color: 'white';
   font-size: 20px;
   margin-top: auto;
@@ -13,18 +12,20 @@
 .click {
   margin: auto;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 22px;
+  font-size: 23px;
 }
 button {
   margin-top: 80px;
   border-radius: 11px;
+
+  font-family: 'Verdana, sans-serif';
 }
 
 .container {
   border: solid;
   height: 150px;
   width: 230px;
-  background-color: ;
+
   margin: 60px auto;
   border-radius: 20px;
   font-family: 'Verdana, sans-serif';
