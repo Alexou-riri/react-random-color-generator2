@@ -12,12 +12,12 @@
 
 .click {
   margin: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
 }
 button {
   margin-top: 80px;
   border-radius: 11px;
-
-  font-family: 'Verdana, sans-serif';
 }
 
 .container {
