@@ -1,13 +1,13 @@
 import './App.css';
 import PropsGreeting from './PropsGreeting.js';
-import PropsButton from './PropsButton.js';
+import RandomColor from './RandomColor.js';
 
 function App() {
   return (
     <div className="App">
       <PropsGreeting />
 
-      <PropsButton />
+      <RandomColor />
     </div>
   );
 }

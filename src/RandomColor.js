@@ -16,13 +16,13 @@ export default function RandomColor() {
       .join('');
 
   const generateColor = () => {
-    const color = {
+    const colour = {
       r: getRgb(),
       g: getRgb(),
       b: getRgb(),
     };
 
-    setColor(rgbToHex(color.r, color.g, color.b));
+    setColor(rgbToHex(colour.r, colour.g, colour.b));
   };
 
   return (
