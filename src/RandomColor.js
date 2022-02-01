@@ -36,7 +36,7 @@ export default function RandomColor() {
       </button>
 
       <div style={{ backgroundColor: color }} className="container">
-        Generated Color : {color}
+        Generated Color: {color}
       </div>
     </div>
   );
