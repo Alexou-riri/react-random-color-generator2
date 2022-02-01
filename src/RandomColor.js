@@ -33,7 +33,7 @@ export default function RandomColor() {
         onClick={generateColor}
       >
         <div className="click">
-          <p style={{ fontFamily: 'Verdana' }}> Click</p>
+          <p style={{ fontFamily: 'Verdana' }}> Generate</p>
           <p style={{ fontFamily: 'Verdana' }}>Don't be shy</p>
         </div>
       </button>
